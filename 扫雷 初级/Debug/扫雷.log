@@ -1,0 +1,6 @@
+﻿  game.c
+D:\code\扫雷\game.c(69,29): warning C4020: “Scan”: 实参太多
+D:\code\扫雷\game.c(86,1): warning C4029: 声明的形参表不同于定义
+  test.c
+  正在生成代码...
+  扫雷.vcxproj -> D:\code\扫雷\Debug\扫雷.exe
