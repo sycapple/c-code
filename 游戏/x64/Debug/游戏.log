@@ -1,0 +1,4 @@
+﻿  test.c
+D:\code\游戏\test.c(14,9): warning C4101: “j”: 未引用的局部变量
+D:\code\游戏\test.c(14,6): warning C4101: “i”: 未引用的局部变量
+  游戏.vcxproj -> D:\code\游戏\x64\Debug\游戏.exe
