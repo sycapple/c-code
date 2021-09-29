@@ -1,0 +1,2 @@
+D:\code\扫雷\Debug\扫雷.exe
+D:\code\扫雷 高级\Debug\扫雷.exe

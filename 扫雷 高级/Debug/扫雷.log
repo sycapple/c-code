@@ -1,0 +1,10 @@
+﻿  game.c
+D:\code\扫雷 高级\game.c(50,62): warning C4028: 形参 3 与声明不同
+D:\code\扫雷 高级\game.c(51,1): warning C4029: 声明的形参表不同于定义
+D:\code\扫雷 高级\game.c(102,1): warning C4029: 声明的形参表不同于定义
+  test.c
+D:\code\扫雷 高级\test.c(36,27): warning C4047: “函数”:“int”与“char [11][11]”的间接级别不同
+D:\code\扫雷 高级\test.c(36,23): warning C4024: “FindMine”: 形参和实参 3 的类型不同
+D:\code\扫雷 高级\test.c(36,34): warning C4020: “FindMine”: 实参太多
+  正在生成代码...
+  扫雷.vcxproj -> D:\code\扫雷 高级\Debug\扫雷.exe
